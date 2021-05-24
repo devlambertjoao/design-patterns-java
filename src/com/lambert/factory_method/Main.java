@@ -1,4 +1,4 @@
-package com.lambert.factory.method;
+package com.lambert.factory_method;
 
 import java.util.ArrayList;
 import java.util.List;

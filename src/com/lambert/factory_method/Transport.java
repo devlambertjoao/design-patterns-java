@@ -1,4 +1,4 @@
-package com.lambert.factory.method;
+package com.lambert.factory_method;
 
 public abstract class Transport {
 	public void startTransport() {
